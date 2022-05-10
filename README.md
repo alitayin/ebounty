@@ -1,5 +1,6 @@
 # ebounty
 
+[ebounty.cash](https://ebounty.cash/)
 
 ### About
 
@@ -11,7 +12,7 @@ The main js and css have been partially changed to meet the needs of customizati
 
 ### Theme
 
-Using the theme of matte, original author: juanhenriquez.
+Using the theme of matte, original author: Juanhenriquez. [juanhenriquez](https://github.com/juanhenriquez)
 
 ### contact
  twitter:[alitayin](https://twitter.com/alitayin)
