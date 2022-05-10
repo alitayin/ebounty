@@ -1,6 +1,16 @@
-# ebounty
 
-[ebounty.cash](https://ebounty.cash/)
+
+<p align="center">
+  <a href="https://ebounty.cash/">
+    <img src="https://user-images.githubusercontent.com/105124378/167624574-ac7b2852-a202-4927-b93c-be56a81e3ba0.png" height="96">
+    <h3 align="center">eBounty.cash</h3>
+  </a>
+</p>
+
+<p align="center">
+  Build and let Build....
+</p>
+
 
 ### About
 
