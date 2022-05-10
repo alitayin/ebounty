@@ -1,5 +1,6 @@
 # ebounty
-alita
+
+
 ### About
 
 This is a bounty tool built for [koush](https://twitter.com/e_Koush) to motivate the ecash community. 
@@ -11,3 +12,6 @@ The main js and css have been partially changed to meet the needs of customizati
 ### Theme
 
 Using the theme of matte, original author: juanhenriquez.
+
+### contact
+ twitter:[alitayin](https://twitter.com/alitayin)
